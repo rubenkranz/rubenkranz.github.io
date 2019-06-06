@@ -5,4 +5,4 @@ header:
   image: # here the image about me
 ---
 
-  I like to explore and live life as fully as possible
+  Life exploration and human curiosity. 
