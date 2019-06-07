@@ -18,10 +18,9 @@ Education
 ---------
 
 2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+:   **PhD, Geosciences**; Bremen University (Bremen)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: Understanding*
 
 2007-2010
 :   **BSc, Computer Science and Electrical Engineering**; University of
