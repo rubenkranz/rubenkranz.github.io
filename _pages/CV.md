@@ -17,10 +17,10 @@ Ruben Rosenkranz
 Education
 ---------
 
-2010-2014 (expected)
+2014-2018 (expected)
 :   **PhD, Geosciences**; Bremen University (Bremen)
-
-    *Thesis title: Understanding*
+*Thesis title: Understanding geodynamic processes from sediments: Detrital thermochronology and Cos-
+mogenic Nuclide analyses from the Himalayas*
 
 2007-2010
 :   **BSc, Computer Science and Electrical Engineering**; University of
@@ -37,7 +37,7 @@ Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
 links:
 
-* First item
+* Post-Doc position at CNRS, France
 
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
